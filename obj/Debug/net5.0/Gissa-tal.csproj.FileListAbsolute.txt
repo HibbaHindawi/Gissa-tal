@@ -1,0 +1,15 @@
+/Users/hibba/Documents/GitHub/Gissa-tal/obj/Debug/net5.0/Gissa-tal.csproj.AssemblyReference.cache
+/Users/hibba/Documents/GitHub/Gissa-tal/obj/Debug/net5.0/Gissa-tal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hibba/Documents/GitHub/Gissa-tal/obj/Debug/net5.0/Gissa-tal.AssemblyInfoInputs.cache
+/Users/hibba/Documents/GitHub/Gissa-tal/obj/Debug/net5.0/Gissa-tal.AssemblyInfo.cs
+/Users/hibba/Documents/GitHub/Gissa-tal/obj/Debug/net5.0/Gissa-tal.csproj.CoreCompileInputs.cache
+/Users/hibba/Documents/GitHub/Gissa-tal/bin/Debug/net5.0/Gissa-tal.deps.json
+/Users/hibba/Documents/GitHub/Gissa-tal/bin/Debug/net5.0/Gissa-tal.runtimeconfig.json
+/Users/hibba/Documents/GitHub/Gissa-tal/bin/Debug/net5.0/Gissa-tal.runtimeconfig.dev.json
+/Users/hibba/Documents/GitHub/Gissa-tal/bin/Debug/net5.0/Gissa-tal.dll
+/Users/hibba/Documents/GitHub/Gissa-tal/bin/Debug/net5.0/ref/Gissa-tal.dll
+/Users/hibba/Documents/GitHub/Gissa-tal/bin/Debug/net5.0/Gissa-tal.pdb
+/Users/hibba/Documents/GitHub/Gissa-tal/obj/Debug/net5.0/Gissa-tal.dll
+/Users/hibba/Documents/GitHub/Gissa-tal/obj/Debug/net5.0/ref/Gissa-tal.dll
+/Users/hibba/Documents/GitHub/Gissa-tal/obj/Debug/net5.0/Gissa-tal.pdb
+/Users/hibba/Documents/GitHub/Gissa-tal/obj/Debug/net5.0/Gissa-tal.genruntimeconfig.cache
