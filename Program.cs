@@ -16,14 +16,18 @@ namespace Gissa_tal
                 Tal = Convert.ToInt32(Console.ReadLine());
                 if (Tal < gissaTal)
                 {
+                Console.BackgroundColor = ConsoleColor.Red;
                 Console.WriteLine("No, the number I am thinking of is higher than " + Tal + ". Can you guess what it is?");
                 }
                 else if (Tal > gissaTal)
                 {
+                Console.BackgroundColor = ConsoleColor.Red;
                 Console.WriteLine("No, the number I am thinking of is lower than " + Tal + ". Can you guess what it is?");
                 }
                 Attempts++;
             }
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.BackgroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("Well done! The answer was " + gissaTal);
             Console.WriteLine("The number of attempts you made was:" + Attempts);
             Console.ReadKey(); 
