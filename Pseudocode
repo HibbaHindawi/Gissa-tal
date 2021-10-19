@@ -1,0 +1,22 @@
+create new random numbergenerator
+
+create three variables
+create variable one (variable one is the random number that is going to be used and is selected from a range of 1-100)
+create (variable two is the variable that lets the user input guesses, puts first value to 0)
+create (variable three is a variable that counts the amount of inputs that variable two gets, puts first value to 0)
+
+ask user to guess a number
+
+starts a loop for everytime variable two != variable one
+converts variable two into a int32 and puts value to an input number string
+first guess is input
+
+looks if number is higher or lower than variable one and stops when variable two is variable one
+if wrong then write "number is lower/higher than the chosen number"
+changes console color and text color to red everytime its wrong
+gives you a guess again until you get to variable one and adds +1 to variable three for every loop
+
+if variable two = variable one
+changes console color and text to green
+write "well done" + variable three
+
